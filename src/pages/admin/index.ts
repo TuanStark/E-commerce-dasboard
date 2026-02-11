@@ -1,0 +1,7 @@
+export { DashboardPage } from './DashboardPage'
+export { UsersPage } from './UsersPage'
+export { ProductsPage } from './ProductsPage'
+export { CategoriesPage } from './CategoriesPage'
+export { OrdersPage } from './OrdersPage'
+export { PaymentsPage } from './PaymentsPage'
+export { DownloadsPage } from './DownloadsPage'
